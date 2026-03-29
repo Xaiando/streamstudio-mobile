@@ -1,6 +1,10 @@
-node_modules/
-storage/
-*.log
-.env
-build/
-dist/
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+*.iml
+**/build/
+
+*.zip
